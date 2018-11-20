@@ -500,7 +500,8 @@ input#toggle {
 
 .events-image {
   float: left;
-min-width: 100px;}
+min-width: 100px;
+max-height: 490px;}
 
 .events-description {
   display: flex;
